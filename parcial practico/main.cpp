@@ -228,7 +228,7 @@ cout<<setw(9)<<"Nombre /"<<setw(9)<<"2010 /"<<setw(15)<<"2011 / "<< setw(9) << "
     cout<<"el equipo con mas votos es "<<Equipo_mayor3 <<" con "<< PM3<<" puntos"<<endl<<endl;
     cout<<"el equipo con menos puntos es "<<Equipo_menor3 <<" con "<<PMe3<<" puntos"<<endl<<endl;
     cout<<"el promedio de puntos en el la liga es "<<promedio3<<" puntos"<<endl<<endl;
-
+//se realizara otro calculo mas
      cout << "Desea otro calculo (s/n)? ";
         cin >> opcion;
         system("cls");
